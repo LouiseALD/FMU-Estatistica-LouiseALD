@@ -96,12 +96,5 @@ Ferramentas que utilizo no curso:
 ## 📊 Progresso Geral
 
 ![Progress](https://geps.dev/progress/35?color=B61F24&background=dcdcdc)
-
----
-
-## ✉️ Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Louise_Aldrighi-B61F24?style=flat-square&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN_AQUI)
-
 ---
 *Atualizado em: Novembro/2025 | FMU*
