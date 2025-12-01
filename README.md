@@ -27,8 +27,6 @@ Ferramentas que utilizo no curso:
 🔴 `Em Andamento` (Vermelho)
 ⚪ `A Cursar` (Branco/Pendente)
 
-### 📅 2024 | Base & Fundamentos
-
 **1º Semestre**
 - [x] 🔘 Estatística Descritiva
 - [x] 🔘 Perspectivas em Estatística
@@ -41,8 +39,6 @@ Ferramentas que utilizo no curso:
 - [x] 🔘 Estatística e Probabilidade Aplicada
 - [x] 🔘 Distribuições e Probabilidade
 - [x] 🔘 Gestão das Organizações
-
-### 📅 2025 | Técnica & Aplicação
 
 **3º Semestre**
 - [x] 🔘 Inferência Estatística
@@ -61,8 +57,6 @@ Ferramentas que utilizo no curso:
 - [ ] 🔴 Pesquisa de Mercado em Estatística
 - [ ] 🔴 Antropologia e Cultura Brasileira
 - [ ] 🔴 Atividades Extensionistas - Módulo II & III
-
-### 📅 2026 - 2028 | Especialização & TCC
 
 **5º Semestre**
 - [ ] ⚪ Ferramentas de Dashboard
