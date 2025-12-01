@@ -41,3 +41,67 @@ Ferramentas que utilizo no curso:
 - [x] 🔘 Estatística e Probabilidade Aplicada
 - [x] 🔘 Distribuições e Probabilidade
 - [x] 🔘 Gestão das Organizações
+
+### 📅 2025 | Técnica & Aplicação
+
+**3º Semestre**
+- [x] 🔘 Inferência Estatística
+- [x] 🔘 Introdução à Programação em Big Data
+- [x] 🔘 Álgebra Linear Computacional
+- [x] 🔘 Cálculo Aplicado - Várias Variáveis
+- [x] 🔘 Estatística Aplicada a Data Science
+- [x] 🔘 Atividades Extensionistas - Módulo I
+
+**4º Semestre (Semestre Atual 🔴)**
+- [ ] 🔴 Lógica de Programação
+- [ ] 🔴 Análise de Regressão Univariada
+- [ ] 🔴 Laboratório de Matemática e Física
+- [ ] 🔴 Cálculo Numérico Computacional
+- [ ] 🔴 Visualização de Dados
+- [ ] 🔴 Pesquisa de Mercado em Estatística
+- [ ] 🔴 Antropologia e Cultura Brasileira
+- [ ] 🔴 Atividades Extensionistas - Módulo II & III
+
+### 📅 2026 - 2028 | Especialização & TCC
+
+**5º Semestre**
+- [ ] ⚪ Ferramentas de Dashboard
+- [ ] ⚪ Inferência Bayesiana
+- [ ] ⚪ Séries e Equações Diferenciais
+- [ ] ⚪ Probabilidades Conjuntas
+- [ ] ⚪ Machine Learning
+- [ ] ⚪ Desenvolvimento Humano e Social
+
+**6º Semestre**
+- [ ] ⚪ Análise Estatística
+- [ ] ⚪ Laboratórios de Simulação
+- [ ] ⚪ Estatística Aplicada à Economia
+- [ ] ⚪ Estatística Aplicada à Saúde
+- [ ] ⚪ Atividades Extensionistas - Módulo IV
+
+**7º Semestre**
+- [ ] ⚪ Análise Multivariada de Dados
+- [ ] ⚪ Análise Bayesiana de Dados
+- [ ] ⚪ Econometria Aplicada
+- [ ] ⚪ Estágio Supervisionado
+
+**8º Semestre**
+- [ ] ⚪ Processos Estocásticos
+- [ ] ⚪ Projetos Estatísticos
+- [ ] ⚪ Controle Estatístico de Qualidade
+- [ ] ⚪ Tópicos Especiais Integradores
+
+---
+
+## 📊 Progresso Geral
+
+![Progress](https://geps.dev/progress/35?color=B61F24&background=dcdcdc)
+
+---
+
+## ✉️ Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Louise_Aldrighi-B61F24?style=flat-square&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN_AQUI)
+
+---
+*Atualizado em: Novembro/2025 | FMU*
